@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestApp5P</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tips_name">TIPS</string>
+    <string name="phone_number_example">+380XXXXXXXXX</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="user_surname_hint">User`s surname</string>
+    <string name="user_phone_number_hint">User`s phone number</string>
+    <string name="user_name_hint">User`s name</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="key_password_icon">key icon</string>
+    <string name="user_icon__profile">user icon</string>
+</resources>
